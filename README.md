@@ -45,9 +45,9 @@ Going by hours is the obvious and naive approach, but when it comes down to it, 
 Codes govern the body.  Governance is the creation and maintenance of codes.  This is done with a system for orchestration proposals, and votes.
 
 ###codes
-__Codes__ are immutable.
+__Codes__ are the laws which govern operation.  They are also computer models for various automated functions of the system, such as voting and delegation.
 
-They must be removed from the system by the operation of another code.
+### votes
 
 ###proposals
 
