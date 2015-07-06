@@ -14,11 +14,14 @@ A membership may likewise be revoked.
 
 ### Initiation
 
-It may be useful for an organization that has high trust aongst founding members,  to give each the ability to pick initiates without passing consensus, as would normally be required for membership.  This member would be granting the status of Initiate to a perspective member.  An initiate would not have voting power, but may be granted similar liberties and rewards as due the worker members (or perhaps some degree greater than).  Following a period wof activity, the general membership will have data to work with, and can vote on granting membership status.  This allows for trust to be maintained within the group, and pads against extremes of in-, and ex-clusivity.
+It may be useful for an organization that has high trust aongst founding members,  to give each the ability to pick initiates without passing consensus, as would normally be required for membership.  This member would be granting the status of Initiate to a perspective member.  An initiate would not have voting power, but may be granted similar liberties and rewards as due the current working members.  Following a period wof activity, the general membership will have data to work with, and can vote on granting membership status.  This allows for trust and independence to be maintained within the group, and pads against extremes of in-, and ex-clusivity.
 
 ### max size
 
 Consider a max size to your organization.  It may be necessary to evolve reproduction system for such organizations.
+
+Example:  perhaps one certain member has many, many initiates, for some good reason.  Perhaps a project requires a large team.  Rather than absorbing such a large new membership, it may be better to help this group form their own independent body.
+
 
 ###owner-members
 
