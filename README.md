@@ -1,4 +1,4 @@
-A spec of protocols for cooperative governance over a member-owned, or distributed, possibly unowned, organization.
+A spec of protocols for cooperative governance over a member-owned organization, or organization that have no owners, only protocols.  
 
 This is a naive, hypothetical, example to startup with, and the IRL test case for which it was devised is a naturalized corporation in the US, which would implement these protocols into its by-laws.    
 
